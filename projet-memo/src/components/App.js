@@ -9,7 +9,9 @@ import initialData from '../initialData';
 class App extends React.Component{
 
 
-    
+    onToggleCompleted=()=>{
+        let onToggleCompleted = this.props.tasks.find()
+    }
 
 
     render(){
